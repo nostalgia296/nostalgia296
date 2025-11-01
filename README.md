@@ -9,3 +9,9 @@
 
 #### Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,dart,go,vue&perline=5)](https://skillicons.dev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nostalgia296/nostalgia296/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nostalgia296/nostalgia296/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake">
+</picture>
