@@ -11,7 +11,7 @@ Hobby programmer by night, curious builder by day.
 I love crafting small tools and delightful side projects that solve real-world problems.
 
 #### Core Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,dart,go,vue&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,dart,go,svelte&perline=5)](https://skillicons.dev)
 
 - **Languages**: JavaScript / TypeScript, Dart, Go  
 - **Frontend**: Vue 3, Vite, Nuxt  
