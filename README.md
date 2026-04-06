@@ -2,7 +2,7 @@
   <img align="right" width="55%" src="https://card.laik.cc.cd/api?username=nostalgia296&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en" alt="My GitHub stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="55%" src="https://card.laik.cc.cd/api/top-langs/?username=nostalgia296&theme=rose_pine&hide=TeX,Procfile,Nix&layout=compact&border_radius=8&locale=en&langs_count=8" alt="Top Languages" />
+  <img align="right" width="55%" src="https://card.laik.cc.cd/api/top-langs/?username=nostalgia296&theme=rose_pine&hide=TeX,Procfile,Nix&layout=compact&border_radius=8&locale=en&langs_count=10" alt="Top Languages" />
 </a>
 
 ### Hi, I'm **[nostalgia296](https://github.com/nostalgia296)** 👋
