@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=0:0052D4,50:4364F7,100:6FB1FC&fontFamily=sans-serif&fontColor=FFFFFF&fontSize=60)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+lai;Nice+to+meet+to+you" alt="Typing SVG" /></a>
-============================
+
 
 
 -------------------------------------------
