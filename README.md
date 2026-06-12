@@ -10,7 +10,7 @@ src="https://img.shields.io/github/followers/nostalgia296?logo=github&style=for-
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,rust&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,bun,deno,pnpm,npm,yarn,vue,svelte,solidjs,htmx,react,tailwind,vite&perline=5)](https://skillicons.dev)
 
 
 ### Badges
