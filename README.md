@@ -17,13 +17,13 @@ src="https://img.shields.io/github/followers/nostalgia296?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-![profile-detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nostalgia296)
+![profile-detail](http://card.laikmm.top/api/cards/profile-details?username=nostalgia296)
 
 ![Top Langs](https://card.laik.cc.cd/api/top-langs/?username=nostalgia296&layout=compact&theme=buefy&hide_border=true&langs_count=100)
 
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nostalgia296) ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nostalgia296)
+![most-commit-language](http://card.laikmm.top/api/cards/most-commit-language?username=nostalgia296) ![repos-per-language](http://card.laikmm.top/api/cards/repos-per-language?username=nostalgia296)
 
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nostalgia296&utcOffset=8)
+![productive-time](http://card.laikmm.top/api/cards/productive-time?username=nostalgia296&utcOffset=8)
 
 
 <picture>
